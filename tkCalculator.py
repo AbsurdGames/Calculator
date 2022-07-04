@@ -7,7 +7,7 @@ except:
     quit()
 
 screen = Tk()
-screen.title("Calcularor - pre04072022")
+screen.title("Calcularor - Beta1.0.0")
 screen.geometry("500x520")
 screen.configure(bg="white")
 screen.eval("tk::PlaceWindow . center")
